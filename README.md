@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# tent talks
+tent talks repository
